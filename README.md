@@ -1,3 +1,3 @@
 # gitCat
 
-![Logo](https://github.com/mootqns/gitcat/blob/main/resources/logo.png)
+![Logo](https://github.com/mootqns/gitcat/blob/main/resources/catodoro.png)
